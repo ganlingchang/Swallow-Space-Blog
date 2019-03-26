@@ -1,0 +1,19 @@
+{
+  "name": "swallow-space-blog",
+  "version": "1.0.0",
+  "description": "文章，博客，笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganlingchang/Swallow-Space-Blog.git"
+  },
+  "author": "ganlingchang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganlingchang/Swallow-Space-Blog/issues"
+  },
+  "homepage": "https://github.com/ganlingchang/Swallow-Space-Blog#readme"
+}
